@@ -354,3 +354,4 @@ D:\Proyectos\BackendApiNet\BackendCategoria\obj\Debug\net6.0\refint\BackendCateg
 D:\Proyectos\BackendApiNet\BackendCategoria\obj\Debug\net6.0\BackendCategoria.pdb
 D:\Proyectos\BackendApiNet\BackendCategoria\obj\Debug\net6.0\BackendCategoria.genruntimeconfig.cache
 D:\Proyectos\BackendApiNet\BackendCategoria\obj\Debug\net6.0\ref\BackendCategoria.dll
+D:\Proyectos\BackendApiNet\BackendCategoria\obj\Debug\net6.0\BackendCategoria.sourcelink.json
